@@ -1,0 +1,14 @@
+
+
+To download the folder/project from Git 
+
+>git clone https://github.com/KvMadan/HelloworldJavaEE
+
+Check Git status 
+>git status 
+
+Add Local project/folder to Git Repository 
+>git remote add origin https://github.com/ag326b/AmolTech.git 
+
+>git push -u origin master
+
